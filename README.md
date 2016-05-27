@@ -1,5 +1,5 @@
 # PitStop1
-PitStop1 is open source turtle tag enclosure we developed together with [Zoological Society of London](https://www.zsl.org/). Turtle tags are used to track the movement of turtles and collect the information necessary to design better strategies for their conservation. 
+PitStop1 is open source turtle tag enclosure we developed in collaboration with [Zoological Society of London](https://www.zsl.org/). Turtle tags are used to track the movement of turtles and collect the information necessary to design better strategies for their conservation. 
 
 In this repository you can find all the technical documentation for turtle tag enclosures, including instructions on how to assemble and use them (in folder Documentation). 
 
@@ -9,6 +9,7 @@ In this repository you can find all the technical documentation for turtle tag e
 
 *Photo credit: Alasdair Davies, [@Al2kA](https://twitter.com/Al2kA)*
 
+---
 
 #### License
 
