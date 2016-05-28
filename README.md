@@ -3,6 +3,8 @@ PitStop1 is open source turtle tag enclosure we developed in collaboration with 
 
 In this repository you can find all the technical documentation for turtle tag enclosures, including instructions on how to assemble and use them (in folder Documentation). 
 
+Read [an article about them and the development process](https://www.wildlabs.net/resources/case-studies/how-open-source-technologies-could-dramatically-reduce-cost-tagging-green-sea) ro get in touch with [us at Institute IRNAS](http://irnas.eu) for customization and orders.
+
 
 ![PitStop1](img/turtle-tag-enclosure.jpg)
 ![PitStop1](img/turtle-tag.jpg)
