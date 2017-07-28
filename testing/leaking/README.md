@@ -1,4 +1,4 @@
-# Hardness testing report
+# Leaking test report
 
 ## Goal
 The turtles can swim very deep where the pressure is high, that's why the cases have to resist water under high pressure to protect the electronics inside. We put our cases into a pressure container to see which material and which sealing resists water best.
@@ -7,48 +7,48 @@ The turtles can swim very deep where the pressure is high, that's why the cases 
 * Pressure container
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/pressure_container.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/pressure_container.JPG"  width="500px" height="375px">
 
 * Ring clamp and pliers
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/ring_clamp.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/ring_clamp.JPG"  width="500px" height="375px">
 
 * Air cable under pressure
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/air_cable.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/air_cable.JPG"  width="500px" height="375px">
 
 ## Tested materials
 * Polyamide - foamed polyurethan O-ring string
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_polyamide_polyurethan_oring.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_polyamide_polyurethan_oring.JPG"  width="500px" height="375px">
 
 * Polyamide - rubber O-ring string
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_polyamide_rubber_oring.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_polyamide_rubber_oring.JPG"  width="500px" height="375px">
 
 * Polyamide - polyurethan sealing sheet
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_polyamide_polyurethan_sheet.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_polyamide_polyurethan_sheet.JPG"  width="500px" height="375px">
 
 * Oleamide - polyurethan sealing sheet
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_oleamide.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_oleamide.JPG"  width="500px" height="375px">
 
 * PA6 - polyurethan sealing sheet
 
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_PA6.JPG)"  style="width:600px;height:450px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_PA6.JPG"  width="500px" height="375px">
 
 * Acryl - hard polyurethan sealing layer
 
 <a><img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_acryl.JPG)"  style="width:600px;height:450px"></a>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/case_acryl.JPG"  width="500px" height="375px"></a>
 
 
 ## Testing
@@ -61,55 +61,55 @@ The container was filled half way up with water. The tested cases were assembled
 
 The case was wet on the backplate and on the inside. There was also water already 	water flowing out while unscrewing the packplate so it can be assumed there was a 	lot of water inside.
 
-<span><img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_oring_1.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_oring_2.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_oring_2.JPG)"  style="width:304px;height:228px"></span>
+<span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_oring_1.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_oring_2.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_oring_2.JPG"  width="250px" height="187px"></span>
 
 
 * Polyamide -rubber O-ring string
 
-The only case without any wet spots on the inside. This case didn't have screws on 	the top which could be a reason why it stayed dry. also the thread on one of the backplate crews got broken but it didn't effect the water resistance of the case.
+The only case without any wet spots on the inside. This case didn't have screws on 	the top which could be a reason why it stayed dry. Also the thread on one of the backplate crews got broken but it didn't effect the water resistance of the case.
 
-<span><img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_1.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_2.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_3.JPG)"  style="width:304px;height:228px"></span>
+<span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_1.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_2.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_3.JPG"  width="250px" height="187px"></span>
 
 
 * Polyamide  - polyurethan sealing sheet
 
 There was a very small wet spot at one of the top screws but it has already 	disappeared at the time of the taking of the picture so it's not visible.
 
-<span><img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_sheet_1.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_sheet_2.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_sheet_3.JPG)"  style="width:304px;height:228px"></span>
+<span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_sheet_1.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_sheet_2.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_polyurethan_sheet_3.JPG"  width="250px" height="187px"></span>
 
 
 * Oleamide - polyurethan sealing sheet
 
 Of all the cases with a polyurethan sealing sheet this one was the wettest. There 	were big wet spots on the inside of the case.
 
-<span><img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/oleamide_1.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/oleamide_2.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/oleamide_3.JPG)"  style="width:304px;height:228px"></span>
+<span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/oleamide_1.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/oleamide_2.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/oleamide_3.JPG"  width="250px" height="187px"></span>
 
 
 * PA6 - polyurethan sealing sheet
 
 It only had a tiny spot at one of the screws which is visible on the picture.
 
-<span><img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/PA6_1.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/PA6_2.JPG)"  style="width:304px;height:228px">
-<img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/PA6_3.JPG)"  style="width:304px;height:228px"></span>
+<span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/PA6_1.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/PA6_2.JPG"  width="250px" height="187px">
+<img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/PA6_3.JPG"  width="250px" height="187px"></span>
 
 * Acryl - hard polyurethan sealing layer
 
 It was already visible from the outside that a lot of water penetrated the case during 	the testing.
 
-<span><img src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/acryl_1.JPG)"  style="width:304px;height:228px">
+<span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/acryl_1.JPG"  width="250px" height="187px">
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/acryl_2.JPG)"  style="width:304px;height:228px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/acryl_2.JPG"  width="250px" height="187px">
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/acryl_3.JPG)"  style="width:304px;height:228px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/acryl_3.JPG"  width="250px" height="187px"></span>
 
 
 * Polyamide - O-ring string
@@ -117,11 +117,11 @@ src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/acryl_3
 Second try with the same polyamid case with the O-ring sealing we use before, only 	this time it has screws on the top. It was still completely dry even with the screws.
 
 <span><img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_1(2).JPG)"  style="width:304px;height:228px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_1(2).JPG"  width="250px" height="187px">
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_2(2).JPG)"  style="width:304px;height:228px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_2(2).JPG"  width="250px" height="187px">
 <img
-src="(https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_3(2).JPG)"  style="width:304px;height:228px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/leaking/pics/polyamide_rubber_oring_3(2).JPG"  width="250px" height="187px"></span>
 
 
 ## Summary

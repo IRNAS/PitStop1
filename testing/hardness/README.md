@@ -1,4 +1,4 @@
-# Hardness testing report
+# Hardness test report
 
 ## Goal
 
@@ -8,11 +8,12 @@ Our goal was to see which material absorbs most force at the given shape and to 
 
 We have built a pendulum like construction. There is a 73cm long lever with its axis of rotation on a screw that is mounted on a two part holder mounted on the table. The screw is held by two bearings to help make the rotation smoother. There is a nut on the screw between the lever and the holder to keep some distance. At the other end of the lever there's a backplate mounted with two screws on the lever with two long screws heading out in the opposite direction where you can put on the weights. On the opposite side of the lever there's a small sphere, witch hits the target case. On the ground there is a holder that holds the tested case in place. It's mounted on a heavy wooden block. There is a board that shows angles (10°, 20°, 30°, 50°, 60°, 67°) mounted on the table.
 
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/drawing.JPG)
-
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/pendulum_front.JPG)
-
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/pendulum.JPG)
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/drawing.JPG"  width="500px" height="375px">
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/pendulum_front.png"  width="500px" height="375px">
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/pendulum.JPG"  width="500px" height="375px">
 
 #### Tested materials
 *	Acryl (transparent) - weight: 88g
@@ -26,7 +27,8 @@ To see witch material absorbs most force we let the pendolum crash into the case
 
 We pulled the pendulum up to a certain angle and let it crash into the tested case. After the first crash we stopped it to prevent it from crashing again. We tried to keep the number of hits as low as possible so the case wouldn't break because of the number of crashes rather than the force of the hit. We started on low angles and worked our way up. We started our testing without any weights on to get an approximation of what the cases can handle. The Acrylic case broke very fast without any weights on. After that we started putting more and more weights on the backplate of the pendulum and the cases held up more than we expected. The polyamide case finally broke with already very heavy weights on and the oleamide and PA6 cases wouldn't even break with the all the weights on we could fit on the backplate.
 
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/weights.png)
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/weights.png"  width="500px" height="375px">
 
 #### Weights:
 * weight 1 (W1): 1140g
@@ -49,7 +51,6 @@ We pulled the pendulum up to a certain angle and let it crash into the tested ca
 |:-:|:-:|:-:|:-:|
 |**Status**   | ok  |ok  |broken|
 
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/acryl.JPG)
 
 #### Polyamide
 * no add. weights
@@ -88,7 +89,8 @@ We pulled the pendulum up to a certain angle and let it crash into the tested ca
 |:-:|:-:|:-:|
 |**Status**   | ok  |ok
 
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/polyamide.JPG)
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/polyamide.JPG"  width="500px" height="375px">
 
 #### Oleamide
 
@@ -116,7 +118,8 @@ We pulled the pendulum up to a certain angle and let it crash into the tested ca
 |:-:|:-:|
 |**Status**   | ok  |
 
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/oleamide.jpg)
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/oleamide.jpg"  width="500px" height="375px">
 
 #### PA6
 
@@ -126,7 +129,8 @@ We pulled the pendulum up to a certain angle and let it crash into the tested ca
 |:-:|:-:|
 |**Status**   | ok  |
 
-![](https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/PA6.jpg)
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/hardness/pics/PA6.jpg"  width="500px" height="375px">
 
 ## Calculation of momentum
 
