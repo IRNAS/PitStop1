@@ -2,7 +2,7 @@
 
 ## Goal
 
-Our goal was to see which material absorbs most force at the given shape and to try and simulate a scenario of use of the case. The turtles clean their shells by rubbing them at rocks. Because the turtle is very heavy it would create lots of force if it hits the spot where the case is mounted. We wanted to know if the tested cases can survive a hit such with high force.
+The turtles clean their shells by rubbing them at rocks. Because the turtle is very heavy it would create lots of force if it hits the spot where the case is mounted. We wanted to know if the tested cases can survive a hit such with high force. Our goal was to see which material absorbs most force at the given shape and to try and simulate a scenario of use of the case.
 
 ## Equipment
 
