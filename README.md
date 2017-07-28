@@ -15,7 +15,8 @@ Read [an article about the open source turtle tags and the development process](
 
 #### Testing
 
-The enclosure has to sustain in extreme circumstances while mounted on the turtle, such as being hit by rocks, the turtle rubbs its shell at, or hihg pressure at depths up to 200m. To determine what material and sealing to use for the enclosure we did a series of <a href="https://github.com/IRNAS/PitStop1/tree/master/testing">tests</a>.
+The enclosure has to sustain in extreme circumstances while mounted on the turtle, such as being hit by rocks, the turtle rubs its shell at, or high pressure at depths up to 200m. To determine what material and sealing to use for the enclosure we did a series of <a href="https://github.com/IRNAS/PitStop1/tree/master/testing">tests</a>.
+
 ---
 
 #### License
