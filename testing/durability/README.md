@@ -152,7 +152,7 @@ b)With no waights at 40° (try of break)<br>
 h = 0.16m<br>
 v = 1.77 m/s
 
-**L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + m<span style ="font-size:x-small">B</span> &times; x &times; v = **1.87 kgm²/s**
+**L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + m<span style ="font-size:x-small">B</span> &times; x &times; v = **1.88 kgm²/s**
 
 #### Polyamide
 a) Weights: W1,W2,W3,W4 (9025g) at 67° (try of break)<br>
@@ -160,7 +160,7 @@ h = 0.42m<br>
 v = 2.9 m/s
 
 
-**L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + (m<span style ="font-size:x-small">B</span> + W1 + W2 + W3 + W4) &times; x &times; v = **1.87 kgm²/s**
+**L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + (m<span style ="font-size:x-small">B</span> + W1 + W2 + W3 + W4) &times; x &times; v = **20.09 kgm²/s**
 
 #### Oleamide & PA6
 a) Weights: W1,W2,W3,W4,W6 (19110g) at 60° (try of break)<br>
@@ -168,7 +168,7 @@ h = 0.35m<br>
 v = 2.6 m/s
 
 
-**L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + (m<span style ="font-size:x-small">B</span> + W1 + W2 + W3 + W4 + W6) &times; x &times; v = **1.87 kgm²/s**
+**L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + (m<span style ="font-size:x-small">B</span> + W1 + W2 + W3 + W4 + W6) &times; x &times; v = **33.35 kgm²/s**
 
 ## Conclusion
 At the beginning we increased the angles and weights very slowly. After the acrylic case broke so quickly we were even more careful because we thought the other cases would break shortly after the acrylic one, but we were surprised. The polyamide case exceeded our expectations and just wouldn't break. We started increasing the weights more drastically and finally it gave in at an already very high load. After that we tried the same load on the remaining two cases and they both survived the crash. After that we wanted to see how far we can go and put on all the weights we could fit on the backplate to hit the PA6 case and the oleamide case and both it still wouldn't break at a load of almost 20kg.
