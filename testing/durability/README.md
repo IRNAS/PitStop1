@@ -11,11 +11,11 @@ We have built a pendulum like construction. There is a 73cm long lever with its 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/drawing.JPG"  width="500px" height="375px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/durabilitys/pics/pendulum_front.png"  width="500px" height="375px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/pendulum_front.png"  width="500px" height="375px">
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/pendulum.JPG"  width="500px" height="375px">
 
-#### Tested materials
+## Tested materials
 *	Acryl (transparent) - weight: 88g
 * Polyamide (black) - weight: 102g
 * Oleamide (green) - weight: 83g
