@@ -20,7 +20,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sea
 * High pressure air tank and regulator
 
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_101319.jpg"  width="500px" height="375px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_101319.jpg"  width="375px" height="500px">
 
 ## Tested enclosures
 * PitStop Tag enclosure
