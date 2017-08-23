@@ -11,7 +11,7 @@ We have built a pendulum like construction. There is a 73cm long lever with its 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/drawing.JPG"  width="500px" height="375px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/pendulum_front.png"  width="500px" height="666.7px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/pendulum_front.png"  width="500px" height="805.7px">
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/pendulum.JPG"  width="500px" height="375px">
 
