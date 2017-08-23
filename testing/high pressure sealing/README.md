@@ -39,6 +39,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sea
 
 ## Testing
 We again used a pressure container to test the sealing of the enclosures. Tests were similar to the first sealing tests. The tested cases were assembled and put on the bottom of the container fully covered with water. The container was sealed with a cover and a circlip and the air hose from the high pressure air tank was connected.
+
 The cases were first tested under 10 and 25 bars of pressure for 15 minutes. The next test was conducted at 50 bars. The last test was conducted at 25 bars for a few hours to test longer exposure to high pressure. After each test cases were taken out of the container and wiped. The lid was removed from the rest of the case to check for any leaks.
 
 ## Results
