@@ -2,11 +2,11 @@
 
 ## Goal
 
-The turtles clean their shells by rubbing them at rocks. Because the turtle is very heavy it would create lots of force if it hits the spot where the case is mounted. We wanted to know if the tested cases can survive a hit such with high force. Our goal was to see which material absorbs most force at the given shape and to try and simulate a scenario of use of the case.
+The turtles clean their shells by rubbing them at rocks. Because the turtle is very heavy it would create a lot of force if it hits the spot where the case is mounted. We wanted to know if the tested cases can survive a hit with such high force. Our goal was to see which material absorbs most force at the given shape and to try and simulate a scenario of use of the case.
 
 ## Equipment
 
-We have built a pendulum like construction. There is a 73cm long lever with its axis of rotation on a screw that is mounted on a two part holder mounted on the table. The screw is held by two bearings to help make the rotation smoother. There is a nut on the screw between the lever and the holder to keep some distance. At the other end of the lever there's a backplate mounted with two screws on the lever with two long screws heading out in the opposite direction where you can put on the weights. On the opposite side of the lever there's a small sphere, witch hits the target case. On the ground there is a holder that holds the tested case in place. It's mounted on a heavy wooden block. There is a board that shows angles (10°, 20°, 30°, 50°, 60°, 67°) mounted on the table.
+We have built a pendulum like construction. There is a 73cm long lever with its axis of rotation on a screw that is mounted on a two part holder mounted on the table. The screw is held by two bearings to help make the rotation smoother. There is a nut on the screw between the lever and the holder to keep some distance. At the other end of the lever there's a backplate mounted on the lever with two screws, with two long screws heading out in the opposite direction where the weights can be put on. On the opposite side of the lever there's a small sphere, which hits the target case. On the ground there is a holder that holds the tested case in place. It's mounted on a heavy wooden block. There is a board that shows angles (10°, 20°, 30°, 50°, 60°, 67°) mounted on the table.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/drawing.JPG"  width="500px" height="375px">
@@ -23,9 +23,9 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/pendu
 
 ## Testing
 
-To see witch material absorbs most force we let the pendolum crash into the case with different weights from different angles.
+To see witch material absorbs the most force we let the pendolum crash into the case with different weights from different angles.
 
-We pulled the pendulum up to a certain angle and let it crash into the tested case. After the first crash we stopped it to prevent it from crashing again. We tried to keep the number of hits as low as possible so the case wouldn't break because of the number of crashes rather than the force of the hit. We started on low angles and worked our way up. We started our testing without any weights on to get an approximation of what the cases can handle. The Acrylic case broke very fast without any weights on. After that we started putting more and more weights on the backplate of the pendulum and the cases held up more than we expected. The polyamide case finally broke with already very heavy weights on and the oleamide and PA6 cases wouldn't even break with the all the weights on we could fit on the backplate.
+We pulled the pendulum up to a certain angle and let it crash into the tested case. After the first crash we stopped it to prevent it from crashing again. We tried to keep the number of hits as low as possible so the case wouldn't break because of the number of hits rather than the force of the hit. We started on low angles and worked our way up. We started our testing without any weights on to get an approximation of what the cases can handle. The Acrylic case broke very fast without any weights on. After that we started putting more and more weights on the backplate of the pendulum and the cases held up more than we expected. The polyamide case finally broke with already very heavy weights on and the oleamide and PA6 cases wouldn't even break with all the weights that we could fit on the backplate.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/weights.png"  width="500px" height="375px">
@@ -171,6 +171,6 @@ v = 2.6 m/s
 **L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + (m<span style ="font-size:x-small">B</span> + W1 + W2 + W3 + W4 + W6) &times; x &times; v = **33.35 kgm²/s**
 
 ## Conclusion
-At the beginning we increased the angles and weights very slowly. After the acrylic case broke so quickly we were even more careful because we thought the other cases would break shortly after the acrylic one, but we were surprised. The polyamide case exceeded our expectations and just wouldn't break. We started increasing the weights more drastically and finally it gave in at an already very high load. After that we tried the same load on the remaining two cases and they both survived the crash. After that we wanted to see how far we can go and put on all the weights we could fit on the backplate to hit the PA6 case and the oleamide case and both it still wouldn't break at a load of almost 20kg.
+At the beginning we increased the angles and weights very slowly. After the acrylic case broke so quickly we were even more careful because we thought the other cases would break shortly after the acrylic one, but we were surprised. The polyamide case exceeded our expectations and just wouldn't break. We started increasing the weights more drastically and finally it gave in at an already very high load. After that we tried the same load on the remaining two cases and they both survived the crash. After that we wanted to see how far we can go and put on all the weights we could fit on the backplate to hit the PA6 case and the oleamide case but still none of them would break at a load of almost 20kg.
 
-Looking at the results it's clear that acryl isn't fit for our purpose because it already broke without any weights put on the pendulum. Polyamide was already surprisingly strong and exceeded our expectations and oleamide and PA6 we couldn't even break.
+Looking at the results it's clear that acryl isn't fit for our purpose because it already broke without any weights put on the pendulum. Polyamide was already surprisingly strong and exceeded our expectations. We couldn't break the oleamide and PA6 cases.
