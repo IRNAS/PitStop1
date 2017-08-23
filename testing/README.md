@@ -9,5 +9,5 @@ The sea turtle regularly cleans its shell by rubbing it at rocks. To sustain the
 2) <a href="https://github.com/IRNAS/PitStop1/tree/master/testing/durability">_**Durability Test**_</a>
   * testing enclosures made of different materials with a pendulum like construction to see which material survives best on impact with high momentum
 
-3) <a href="https://github.com/IRNAS/PitStop1/tree/master/testing/durability">_**High Pressure Sealing Test**_</a>
+3) <a href="https://github.com/IRNAS/PitStop1/tree/master/testing/high%20pressure%20sealing">_**High Pressure Sealing Test**_</a>
   * testing PitStop Tag and Camera enclosures under high pressure up to 25 bar, equal to the depth of 250m
