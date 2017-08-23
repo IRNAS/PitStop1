@@ -85,9 +85,9 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/weigh
 
 * with W1+W2+W3+W4 (9025g)
 
-|Angle(°)|<span style="font-weight:normal;color:gray">50</span>  |<span style="font-weight:normal;color:gray">67</span>
-|:-:|:-:|:-:|
-|**Status**   | ok  |ok
+|Angle(°)|<span style="font-weight:normal;color:gray">50</span>  |<span style="font-weight:normal;color:gray">67</span>  |<span style="font-weight:normal;color:gray">67</span>  |
+|:-:|:-:|:-:|:-:|
+|**Status**   | ok  | ok  | ok
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/polyamide.JPG"  width="500px" height="375px">
