@@ -26,16 +26,16 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sea
 * PitStop Tag enclosure
 
 <span><img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_090337.jpg"  width="500px" height="375px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_090337.jpg"  width="400px" height="300px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_090926.jpg"  width="500px" height="375px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_090926.jpg"  width="400px" height="300px"></span>
 
 * PitStop Camera enclosure
 
 <span><img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_090539.jpg"  width="500px" height="375px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_090539.jpg"  width="400px" height="300px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_091427.jpg"  width="500px" height="375px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_091427.jpg"  width="400px" height="300px"></span>
 
 ## Testing
 We again used a pressure container to test the sealing of the enclosures. Tests were similar to the first sealing tests. The tested cases were assembled and put on the bottom of the container fully covered with water. The container was sealed with a cover and a circlip and the air hose from the high pressure air tank was connected.
@@ -45,9 +45,9 @@ The cases were first tested under 10 and 25 bars of pressure for 15 minutes. The
 Both cases, Tag and Camera enclosures, stayed completely dry at 10 and 25 bar. 
 
 <span><img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_101027.jpg"  width="500px" height="375px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_101027.jpg"  width="400px" height="300px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_101043.jpg"  width="500px" height="375px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_101043.jpg"  width="400px" height="300px"></span>
 
 When tested at 50 bar, slight deformation was found on both aluminium lids and on Camera enclosure. But despite the deformation, both cases stayed completely dry, even at 50 bar.
 
