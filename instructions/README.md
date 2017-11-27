@@ -31,4 +31,4 @@ src="/instructions/pics/IMG_20171127_110526.jpg"  width="400px" height="300px"><
 Attch the lid using fourteen M4 screws.
 
 <img
-src="/instructions/pics/IMG_20171127_110813.jpg"  width="500px" height="375px">
+src="/instructions/pics/IMG_20171127_110813.jpg"  width="400px" height="300">
