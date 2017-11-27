@@ -20,17 +20,17 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/ring_cla
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/air_cable.JPG"  width="500px" height="375px">
 
 ## Tested materials
-* Polyamide - foamed polyurethan O-ring string
+* Polyoxymethylene (POM) - foamed polyurethan O-ring string
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_polyamide_polyurethan_oring.JPG"  width="500px" height="375px">
 
-* Polyamide - rubber O-ring string
+* Polyoxymethylene (POM) - rubber O-ring string
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_polyamide_rubber_oring.JPG"  width="500px" height="375px">
 
-* Polyamide - polyurethan sealing sheet
+* Polyoxymethylene (POM) - polyurethan sealing sheet
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_polyamide_polyurethan_sheet.JPG"  width="500px" height="375px">
@@ -40,7 +40,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_pol
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_oleamide.JPG"  width="500px" height="375px">
 
-* PA6 - polyurethan sealing sheet
+* Polyamide 6 (PA6) - polyurethan sealing sheet
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_PA6.JPG"  width="500px" height="375px">
