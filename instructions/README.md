@@ -1,6 +1,6 @@
 # Assembly instructions for PitStop Turtle Camera
 
-Take assembled Raspberry Pi Zero W with PiRA Zero, wirelles charging and Raspberry Pi Camera Module stack.
+Take assembled Raspberry Pi Zero W stack with PiRA Zero, wirelles charging and Raspberry Pi Camera Module.
 
 <span><img
 src="/instructions/pics/IMG_20171127_110157.jpg"  width="400px" height="300px">
