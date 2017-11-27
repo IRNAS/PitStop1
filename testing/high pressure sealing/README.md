@@ -1,7 +1,7 @@
 # High pressure sealing test report
 
 ## Goal
-After the right material and sealing method were selected, the sealing under high pressure had to be tested as well. For testing we have made a new series of two enclosures, one PitStop Tag enclosure and one PitStop Camera enclosure. We have used polyamide for enclosures and rubber O-ring string for sealing. Enclosures were put under high pressure up to 25 bar, equal to the depth of 250m.
+After the right material and sealing method were selected, the sealing under high pressure had to be tested as well. For testing we have made a new series of two enclosures, one PitStop Tag enclosure and one PitStop Camera enclosure. We have used polyoxymethylene (POM) for enclosures and rubber O-ring string for sealing. Enclosures were put under high pressure up to 25 bar, equal to the depth of 250m.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20170822_090302.jpg"  width="500px" height="375px">
