@@ -17,9 +17,9 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/pendu
 
 ## Tested materials
 *	Acryl (transparent) - weight: 88g
-* Polyamide (black) - weight: 102g
+* Polyoxymethylene (POM) (black) - weight: 102g
 * Oleamide (green) - weight: 83g
-* PA6 (white) - weight: 83g
+* Polyamide 6 (PA6) (white) - weight: 83g
 
 ## Testing
 
@@ -52,7 +52,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/weigh
 |**Status**   | ok  | ok  |broken|
 
 
-#### Polyamide
+#### Polyoxymethylene (POM)
 * no add. weights
 
 |Angle(°)|<span style="font-weight:normal;color:gray">67</span>  |
@@ -121,7 +121,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/polya
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/durability/pics/oleamide.jpg"  width="500px" height="375px">
 
-#### PA6
+#### Polyamide 6 (PA6)
 
 * W1+W2+W3+W4+W6 (19110g)
 
@@ -154,7 +154,7 @@ v = 1.77 m/s
 
 **L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + m<span style ="font-size:x-small">B</span> &times; x &times; v = **1.88 kgm²/s**
 
-#### Polyamide
+#### Polyoxymethylene (POM)
 a) Weights: W1,W2,W3,W4 (9025g) at 67° (try of break)<br>
 h = 0.42m<br>
 v = 2.9 m/s
@@ -162,7 +162,7 @@ v = 2.9 m/s
 
 **L =** m<span style ="font-size:x-small">L</span> &times; (l/2) &times; v + (m<span style ="font-size:x-small">B</span> + W1 + W2 + W3 + W4) &times; x &times; v = **20.09 kgm²/s**
 
-#### Oleamide & PA6
+#### Oleamide & Polyamide 6 (PA6)
 a) Weights: W1,W2,W3,W4,W6 (19110g) at 60° (try of break)<br>
 h = 0.35m<br>
 v = 2.6 m/s
