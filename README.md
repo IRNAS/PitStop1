@@ -6,6 +6,12 @@ In this repository you can find all technical documentation for the latest versi
 Read [an article about the open source turtle tags and the development process](https://www.wildlabs.net/resources/case-studies/how-open-source-technologies-could-dramatically-reduce-cost-tagging-green-sea) and get in touch with [us at Institute IRNAS](http://irnas.eu) for customization and orders.
 
 
+ 
+![PitStop1](img/1_malo.jpg)
+![PitStop1](img/2_malo.jpg)
+![PitStop1](img/3_malo.jpg)
+![PitStop1](img/4_malo.jpg)
+
 ![PitStop1](img/turtle-tag1.png)
 ![PitStop1](img/turtle-camera.png)
 ![PitStop1](img/turtle-tag.jpg)
