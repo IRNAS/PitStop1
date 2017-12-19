@@ -1,5 +1,5 @@
 # PitStop1 - Open source turtle tag and turtle camera enclosure
-PitStop1 is open source turtle tag enclosure we developed in collaboration with [Zoological Society of London](https://www.zsl.org/). Turtle tags are used to track the movement of turtles and collect the information necessary to design better strategies for their conservation.
+PitStop1 is open source turtle tag enclosure we developed in collaboration with the [Arribada Initiative](http://blog.arribada.org/). Turtle tags are used to track the movement of turtles and collect the information necessary to design better strategies for their conservation.
 
 In this repository you can find all technical documentation for the latest version of the turtle tag enclosure and the turtle camera enclosure. The documentation for the version 1 of Pitstop1 is available in the branch [version-1](https://github.com/IRNAS/PitStop1/tree/version1).
 
