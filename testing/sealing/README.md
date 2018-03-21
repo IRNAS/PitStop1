@@ -50,7 +50,6 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_PA6
 <a><img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/case_acryl.JPG"  width="500px" height="375px"></a>
 
-
 ## Testing
 To test how the cases can handle pressure in water we used a pressure container.
 
@@ -65,7 +64,6 @@ The case was wet on the backplate and on the inside. There was water already flo
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_polyurethan_oring_2.JPG"  width="250px" height="187px">
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_polyurethan_oring_2.JPG"  width="250px" height="187px"></span>
 
-
 * Polyoxymethylene (POM) - rubber O-ring string
 
 The only case without any wet spots on the inside. This case didn't have screws on the top which could be a reason why it stayed dry. Also the thread on one of the backplate screws got broken but it didn't effect the water resistance of the case.
@@ -73,7 +71,6 @@ The only case without any wet spots on the inside. This case didn't have screws 
 <span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_rubber_oring_1.JPG"  width="250px" height="187px">
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_rubber_oring_2.JPG"  width="250px" height="187px">
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_rubber_oring_3.JPG"  width="250px" height="187px"></span>
-
 
 * Polyoxymethylene (POM) - polyurethan sealing sheet
 
@@ -83,7 +80,6 @@ There was a very small wet spot at one of the top screws but it has already disa
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_polyurethan_sheet_2.JPG"  width="250px" height="187px">
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_polyurethan_sheet_3.JPG"  width="250px" height="187px"></span>
 
-
 * Oleamide - polyurethan sealing sheet
 
 Of all the cases with a polyurethan sealing sheet this one was the wettest. There were big wet spots on the inside of the case.
@@ -91,7 +87,6 @@ Of all the cases with a polyurethan sealing sheet this one was the wettest. Ther
 <span><img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/oleamide_1.JPG"  width="250px" height="187px">
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/oleamide_2.JPG"  width="250px" height="187px">
 <img src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/oleamide_3.JPG"  width="250px" height="187px"></span>
-
 
 * Polyamide 6 (PA6) - polyurethan sealing sheet
 
@@ -111,7 +106,6 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/acryl_2.
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/acryl_3.JPG"  width="250px" height="187px"></span>
 
-
 * Polyoxymethylene (POM) - O-ring string
 
 Second try with the same POM case with the O-ring sealing we used before, only this time it had screws on the top. It was still completely dry even with the screws.
@@ -122,7 +116,6 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamid
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_rubber_oring_2(2).JPG"  width="250px" height="187px">
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/sealing/pics/polyamide_rubber_oring_3(2).JPG"  width="250px" height="187px"></span>
-
 
 ## Conclusion
 * The acrylic with hard polyurethan sealing layer and the POM with polyurethan O-ring sealing string cases leaked a lot of water.
