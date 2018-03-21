@@ -1,7 +1,7 @@
 # Pressure sensor sealing test report
 
 ## Goal
-For accurate tracking of the sea turtles the information about the depth is very important. A pressure sensor will be used in the PitStop Tags to measure the depth. To test the sealing of the pressures sensor tests were similar to the sealing tests of the PitStop Tag enclosures. A special enclosure was made from polyoxymethylene (POM) plastics and rubber O-ring string and a O-ring gasket were used for sealing. Enclosure with the pressure sensor was put under high pressure up to 10 bar, equal to the depth of 100m.
+For accurate tracking of the sea turtles the information about the depth is very important. A pressure sensor will be used in the PitStop Tags to measure the depth. Sealing tests of the pressures sensor tests were similar to the sealing tests of the PitStop Tag enclosures. A special enclosure was made from polyoxymethylene (POM) plastics and rubber O-ring string and a O-ring gasket were used for sealing. Enclosure with the pressure sensor was put under high pressure up to 10 bar, equal to the depth of 100m.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180315_110824.jpg"  width="500px" height="375px">
