@@ -30,7 +30,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104651.jpg"  width="400px" height="300px"></span>
 
-* TE Connectivity MS5837-30BA Pressure Sensor (http://www.te.com/usa-en/product-CAT-BLPS0017.html) and O-ring
+* TE Connectivity MS5837-30BA Pressure Sensor (http://www.te.com/usa-en/product-CAT-BLPS0017.html) with O-ring
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104728.jpg"  width="400px" height="300px">
