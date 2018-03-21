@@ -45,30 +45,36 @@ The POM cases were tested under 10 and 25 bar of pressure for 30 minutes while t
 
 ## Results
 * Polyoxymethylene (POM) plastics - 10 bar of pressure for 30 minutes
+There were no noticable deformation.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122202.jpg"  width="500px" height="375px">
 
 * Polyoxymethylene (POM) plastics - 25 bar of pressure for 30 minutes
+There were no noticable deformation.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122215.jpg"  width="500px" height="375px">
 
 * Polyethylene (PE) plastics - 5 bar of pressure for 30 minutes
+We have measured a maximum 1.1 mm deformation at the top middle of the case.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122322.jpg"  width="500px" height="375px">
 
 * Polyethylene (PE) plastics - 8 bar of pressure for 30 minutes
+We have measured a maximum 1.1 mm deformation at the top middle of the case.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122322.jpg"  width="500px" height="375px">
 
 * Polyethylene (PE) plastics - 8 bar of pressure for 1 hour
+We have measured a maximum 1.6 mm deformation at the top middle of the case.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122332.jpg"  width="500px" height="375px">
 
 * Polyethylene (PE) plastics - 8 bar of pressure for 16 hours
+We have measured a maximum 5.4 mm deformation at the top middle of the case. Unfortunatelly no image of this test is available.
 
 ## Conclusion
