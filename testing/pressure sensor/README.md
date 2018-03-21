@@ -22,7 +22,6 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_0984.JPG"  width="500px" height="375px">
 
-
 ## Tested enclosure and pressure sensor
 * Special enclosure for the pressure sensor
 
@@ -31,7 +30,21 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104651.jpg"  width="400px" height="300px"></span>
 
-* TE Connectivity MS5837-30BA Pressure Sensor
+* TE Connectivity MS5837-30BA Pressure Sensor (http://www.te.com/usa-en/product-CAT-BLPS0017.html)
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104728.jpg"  width="400px" height="300px">
+
+## Testing
+To test how the pressure sensor can handle the pressure in water we used a pressure container.
+
+The container was filled half way up with water. The tested enclosure was assembled and put on the bottom of the container fully covered with water. The container was sealed with the cover and a circlip and the air hose was attached. The enclosure with the pressure sensor was tested under 10 bars of pressure for 60 min. Afterwards it was taken out and the backplate was unscrewed from the rest of the case very carefully so no water from the outside of the case would flow inside accidently.
+
+## Results
+
+<span><img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180315_110831.jpg"  width="400px" height="300px">
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180315_111131.jpg"  width="400px" height="300px"></span>
+
+## Conclusion
