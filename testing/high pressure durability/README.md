@@ -31,12 +31,12 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20dur
 * PitStop Camera enclosure, made from polyoxymethylene (POM) plastics
 
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132518.jpg"  width="375px" height="500px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132518.jpg"  width="500px" height="375px">
 
 * PitStop Camera enclosure, made from polyethylene (PE) plastics
 
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132520.jpg"  width="375px" height="500px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132520.jpg"  width="500px" height="375px">
 
 ## Testing
 We again used a pressure container to test the sealing of the enclosures. Tests were similar to the first sealing tests. The tested cases were assembled and put on the bottom of the container fully covered with water. The container was sealed with a cover and a circlip and the air hose from the high pressure air tank was connected.
