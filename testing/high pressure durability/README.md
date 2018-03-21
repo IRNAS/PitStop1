@@ -42,3 +42,33 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20dur
 We again used a pressure container to test the sealing of the enclosures. Tests were similar to the sealing tests. The tested cases were assembled and put on the bottom of the container fully covered with water. The container was sealed with a cover and a circlip and the air hose from the high pressure air tank was connected.
 
 The POM cases were tested under 10 and 25 bar of pressure for 30 minutes while the PE cases were tested under 5 and 8 bar of pressure for 30 minutes, 1 and 16 hours. After each test cases were taken out of the container and wiped. The deformation was measured using a depth gage.
+
+## Results
+* Polyoxymethylene (POM) plastics - 10 bar of pressure for 30 minutes
+
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122202.jpg"  width="500px" height="375px">
+
+* Polyoxymethylene (POM) plastics - 25 bar of pressure for 30 minutes
+
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122215.jpg"  width="500px" height="375px">
+
+* Polyethylene (PE) plastics - 5 bar of pressure for 30 minutes
+
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122322.jpg"  width="500px" height="375px">
+
+* Polyethylene (PE) plastics - 8 bar of pressure for 30 minutes
+
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122322.jpg"  width="500px" height="375px">
+
+* Polyethylene (PE) plastics - 8 bar of pressure for 1 hour
+
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122332.jpg"  width="500px" height="375px">
+
+* Polyethylene (PE) plastics - 8 bar of pressure for 16 hours
+
+## Conclusion
