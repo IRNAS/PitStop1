@@ -46,14 +46,14 @@ The POM cases were tested under 10 and 25 bar of pressure for 30 minutes while t
 ## Results
 * Polyoxymethylene (POM) plastics - 10 bar of pressure for 30 minutes
 
-There were no noticable deformation.
+There was no noticable deformation.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122202.jpg"  width="500px" height="375px">
 
 * Polyoxymethylene (POM) plastics - 25 bar of pressure for 30 minutes
 
-There were no noticable deformation.
+There was no noticable deformation.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122215.jpg"  width="500px" height="375px">
