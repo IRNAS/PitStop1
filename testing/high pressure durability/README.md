@@ -80,6 +80,7 @@ We have measured a maximum 1.6 mm deformation at the top middle of the case.
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122332.jpg"  width="500px" height="375px">
 
 * Polyethylene (PE) plastics - 8 bar of pressure for 16 hours
+
 We have measured a maximum 5.4 mm deformation at the top middle of the case. Unfortunatelly no image of this test is available.
 
 ## Conclusion
