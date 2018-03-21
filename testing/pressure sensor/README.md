@@ -41,7 +41,7 @@ To test how the pressure sensor can handle the pressure in water we used a press
 The container was filled half way up with water. The tested enclosure was assembled and put on the bottom of the container fully covered with water. The container was sealed with the cover and a circlip and the air hose was attached. The enclosure with the pressure sensor was tested under 10 bars of pressure for 60 min. Afterwards it was taken out and the backplate was unscrewed from the rest of the case very carefully so no water from the outside of the case would flow inside accidently.
 
 ## Results
-During the assmebly the pressure sensor was damaged when inserted into the splecial enclosure due to the incorrect O-ring size. Because of the damage the water was able to penetrate the pressure sensor and the sealing test was unsuccessful. The sealing test will therefore have to be repeated with the correct O-ring size and a new pressure sensor.
+During the assmebly the pressure sensor was damaged when inserted into the splecial enclosure due to the incorrect O-ring size. Because of the damage the water was able to penetrate the pressure sensor and fully flooded the case. The sealing test was unsuccessful. The sealing test will therefore have to be repeated with the correct O-ring size and a new pressure sensor.
 
 <span><img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180315_110831.jpg"  width="400px" height="300px">
