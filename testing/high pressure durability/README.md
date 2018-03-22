@@ -46,14 +46,14 @@ The POM cases were tested under 10 and 25 bar of pressure for 30 minutes while t
 ## Results
 * Polyoxymethylene (POM) plastics - 10 bar of pressure for 30 minutes
 
-There was no noticable deformation.
+There was no noticeable deformation.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122202.jpg"  width="500px" height="375px">
 
 * Polyoxymethylene (POM) plastics - 25 bar of pressure for 30 minutes
 
-There was no noticable deformation.
+There was no noticeable deformation.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_122215.jpg"  width="500px" height="375px">
@@ -81,7 +81,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20dur
 
 * Polyethylene (PE) plastics - 8 bar of pressure for 16 hours
 
-We have measured a maximum 5.4 mm deformation at the top middle of the case. Unfortunatelly no image of this test is available.
+We have measured a maximum 5.4 mm deformation at the top middle of the case. Unfortunately, no image of this test is available.
 
 ## Conclusion
 While enclosure made from polyoxymethylene (POM) passed both tests, we have discoved that the enclosure made from polyethylene (PE) was a lot weaker. Tests under only 8 bar showed a large deformation and we have therefore concluded that PE is not suitable for PitStop Tag and Camera enclosures if the design remains unchanged. If the wall thickness of the enclosure would be increased PE could be suitable as well but more tests sould be conducted to confirm that.
