@@ -1,7 +1,7 @@
 # High pressure durability test report
 
 ## Goal
-During the high pressure sealing test where we were testing the sealing of the enclosures under high pressure we have noticed a large deformation when the enclosure was exposed to 50 bar of pressure and decided that it had to be further investigated. We have used PitStop Camera enclosures made from polyoxymethylene (POM) and polyethylene (PE) plastics for these tests. POM was selected as the most appropriate in the first sealing tests and the PE was selected as it has a lot lower density. Cases made from PE would therefore weigh a lot less and might have less impact on sea turtles' behaviour. Enclosures were put under high pressure up to 25 bar, equal to the depth of 250m.
+During the high pressure sealing test where we were testing the sealing of the enclosures under high pressure we have noticed a large deformation when the enclosure was exposed to 50 bar of pressure and decided that it had to be further investigated. We have used PitStop Camera enclosures made from polyoxymethylene (POM) and polyethylene (PE) plastics for these tests. POM was selected as the most appropriate in the first durability and sealing tests and the PE was selected as it has a lot lower density. Cases made from PE would therefore weigh a lot less and might have less impact on sea turtles' behaviour. Enclosures were put under high pressure up to 25 bar, equal to the depth of 250m.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132516.jpg"  width="500px" height="375px">
