@@ -28,12 +28,12 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20dur
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_0986.jpg"  width="375px" height="500px">
 
 ## Tested enclosures
-* PitStop Camera enclosure, made from polyoxymethylene (POM) plastics
+* PitStop Camera enclosure, made from polyoxymethylene (POM) plastics - weight: 208 g
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132518.jpg"  width="500px" height="375px">
 
-* PitStop Camera enclosure, made from polyethylene (PE) plastics
+* PitStop Camera enclosure, made from polyethylene (PE) plastics - weight: 144 g
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132520.jpg"  width="500px" height="375px">
