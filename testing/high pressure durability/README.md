@@ -1,7 +1,7 @@
 # High pressure durability test report
 
 ## Goal
-In the high pressure sealing test we were testing the sealing of the encosures under hight pressure but when we exposed the enclosure to 50 bar of pressure we have noticed a large deformation of the case that had to be further investigated. We have used PitStop Camera enclosures made from polyoxymethylene (POM) and polyethylene (PE) plastics.  Enclosures were put under high pressure up to 25 bar, equal to the depth of 250m.
+During the high pressure sealing test we were testing the sealing of the encosures under hight pressure but when we exposed the enclosure to 50 bar of pressure we have noticed a large deformation of the case that had to be further investigated. We have used PitStop Camera enclosures made from polyoxymethylene (POM) and polyethylene (PE) plastics.  Enclosures were put under high pressure up to 25 bar, equal to the depth of 250m.
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20durability/pics/IMG_20180321_132516.jpg"  width="500px" height="375px">
