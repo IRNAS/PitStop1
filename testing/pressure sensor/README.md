@@ -48,7 +48,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180315_111131.jpg"  width="400px" height="300px"></span>
 
-* Another test with a new pressure sensor and the correct O-ring was conduted. The case stayed completely dry.
+* Another test with a new pressure sensor and the correct O-ring was conduted. This time the case stayed completely dry.
 
 <span><img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_125030.jpg"  width="267px" height="200.25px">
