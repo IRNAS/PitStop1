@@ -51,11 +51,11 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 * new test
 
 <span><img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20180323_125030.jpg"  width="267px" height="200.25px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_125030.jpg"  width="267px" height="200.25px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20180323_124931.jpg"  width="267px" height="200.25px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_124931.jpg"  width="267px" height="200.25px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/high%20pressure%20sealing/pics/IMG_20180323_130200.jpg"  width="267px" height="200.25px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_130200.jpg"  width="267px" height="200.25px"></span>
 
 ## Conclusion
 The prescribed sealing method for the pressure sensor could not be tested because the sensor was damage during the assembly. Because of the damage the water was able to penetrate the pressure sensor and the sealing test was unsuccessful. The sealing test will therefore have to be repeated with the correct O-ring size and a new pressure sensor.
