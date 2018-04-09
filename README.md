@@ -5,19 +5,16 @@ In this repository you can find all technical documentation for the latest versi
 
 Read [an article about the open source turtle tags and the development process](https://www.wildlabs.net/resources/case-studies/how-open-source-technologies-could-dramatically-reduce-cost-tagging-green-sea) and get in touch with [us at Institute IRNAS](http://irnas.eu) for customization and orders.
 
+<img src="img/1_malo.jpg" width="425"> <img src="img/3_malo.jpg"  width="425">   
 
- 
-![PitStop1](img/1_malo.jpg)
-![PitStop1](img/2_malo.jpg)
-![PitStop1](img/3_malo.jpg)
-![PitStop1](img/4_malo.jpg)
+<img src="img/turtle-tag1.png" width="425"> <img src="img/turtle-camera.png"  width="425">
 
-![PitStop1](img/turtle-tag1.png)
-![PitStop1](img/turtle-camera.png)
-![PitStop1](img/turtle-tag.jpg)
+<img src="img/tag.jpg" width="425"> <img src="img/camera.jpg"  width="425">
 
+<img src="img/turtle-tag.jpg" width="425"> <img src="img/pitstop.jpg"  width="425">
+*Copyright: The Arribada Initiative*
 
-*Photo credit: Alasdair Davies, [@Al2kA](https://twitter.com/Al2kA)*
+<img src="img/turtle-camera-model.png">
 
 #### Testing
 
