@@ -64,7 +64,7 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_130200.jpg"  width="400px" height="300px"></span>
 
-In the third test we used a custom PCB which will be used to attach and connect the pressure sensor. The case stayed completely dry.
+In the third test we used a custom PCB which is used to attach and connect the pressure sensor. The case stayed completely dry.
 
 <span><img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180418_085949.jpg"  width="400px" height="300px">
