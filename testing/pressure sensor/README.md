@@ -49,7 +49,7 @@ To test how the pressure sensor can handle the pressure in water we used a press
 
 The container was filled half way up with water. The tested enclosure was assembled and put on the bottom of the container fully covered with water. The container was sealed with the cover and a circlip and the air hose was attached. The enclosure with the pressure sensor was tested under 10 bars of pressure for 60 min. Afterwards it was taken out and the backplate was unscrewed from the rest of the case very carefully so no water from the outside of the case would flow inside accidently.
 
-In the first two tests we used an aluminium plate to attach the pressure sensor. We have then designed a custom PCB which will be used o attach and connect the pressure sensor in the actual PitStop Tags. In the third test we used the PCB to attach the pressure sensor.
+In the first two tests we used an aluminium plate to attach the pressure sensor. We have then designed a custom PCB which will be used to attach and connect the pressure sensor in the actual PitStop Tags. In the third test we then used the PCB to attach the pressure sensor.
 
 ## Results
 During the assembly the pressure sensor was damaged when inserted into the special enclosure due to the incorrect O-ring size. Because of the damage the water was able to penetrate the pressure sensor and fully flooded the case. The sealing test was unsuccessful and therefore had to be repeated with the correct O-ring size and a new pressure sensor.
