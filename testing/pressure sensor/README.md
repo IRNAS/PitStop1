@@ -28,12 +28,21 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <span><img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104601.jpg"  width="400px" height="300px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104651.jpg"  width="400px" height="300px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104651.jpg"  width="400px" height="300px">
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180418_085850.jpg"  width="400px" height="300px"></span>
 
 * TE Connectivity MS5837-30BA Pressure Sensor (http://www.te.com/usa-en/product-CAT-BLPS0017.html) with O-ring gasket
 
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180320_104728.jpg"  width="400px" height="300px">
+
+* A custom PCB, designed to attach and connect the pressure sensor
+
+<span><img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180418_090453.jpg"  width="400px" height="300px">
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180418_090424.jpg"  width="400px" height="300px"></span>
 
 ## Testing
 To test how the pressure sensor can handle the pressure in water we used a pressure container.
@@ -55,5 +64,14 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_130200.jpg"  width="400px" height="300px"></span>
 
+In the third test we used a custom PCB which will be used to attach and connect the pressure sensor. The case stayed completely dry.
+
+<span><img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180418_085949.jpg"  width="400px" height="300px">
+<img
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180417_154520.jpg"  width="400px" height="300px"></span>
+
 ## Conclusion
-The first test of the pressure sensor was unsuccessful because the sensor was damaged during the assembly. Because of the damage the water was able to penetrate the pressure sensor. The sealing test was then repeated with the correct O-ring size and a new pressure sensor. In the second test the case stayed completely dry. The prescribed sealing method for the pressure sensor was confirmed, but more tests at 25 bar of pressure should be conducted to confirm the sealing under high pressure equal to the depth of 250m.
+The first test of the pressure sensor was unsuccessful because the sensor was damaged during the assembly. Because of the damage the water was able to penetrate the pressure sensor. The sealing test was then repeated with the correct O-ring size and a new pressure sensor. In the second test the case stayed completely dry. In the third test we used a custom PCB which will be used to attach and connect the pressure sensor in the actual PitStop Tags. We confirmed the sealing with the PCB as well.
+
+The prescribed sealing method for the pressure sensor was confirmed, but more tests at 25 bar of pressure should be conducted to confirm the sealing under high pressure equal to the depth of 250m.
