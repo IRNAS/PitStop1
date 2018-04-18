@@ -48,14 +48,12 @@ src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pic
 <img
 src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180315_111131.jpg"  width="400px" height="300px"></span>
 
-Another test with a new pressure sensor and the correct O-ring was conducted. This time the case stayed completely dry
+Another test with a new pressure sensor and the correct O-ring was conducted. This time the case stayed completely dry.
 
 <span><img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_125030.jpg"  width="267px" height="200.25px">
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_124931.jpg"  width="400px" height="300px">
 <img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_124931.jpg"  width="267px" height="200.25px">
-<img
-src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_130200.jpg"  width="267px" height="200.25px"></span>
+src="https://github.com/IRNAS/PitStop1/blob/master/testing/pressure%20sensor/pics/IMG_20180323_130200.jpg"  width="400px" height="300px"></span>
 
 ## Conclusion
 The first test of the pressure sensor was unsuccessful because the sensor was damaged during the assembly. Because of the damage the water was able to penetrate the pressure sensor. The sealing test was then repeated with the correct O-ring size and a new pressure sensor. In the second test the case stayed completely dry. The prescribed sealing method for the pressure sensor was confirmed, but more tests at 25 bar of pressure should be conducted to confirm the sealing under high pressure equal to the depth of 250m.
